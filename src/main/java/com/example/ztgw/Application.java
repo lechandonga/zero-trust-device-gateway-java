@@ -1,4 +1,4 @@
-package com.github.lechandonga.zerotrustdevicegatewayjava;
+package com.example.ztgw;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.github.lechandonga.zerotrustdevicegatewayjava.tests;
+package com.example.ztgw.tests;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
